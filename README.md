@@ -5,7 +5,7 @@ A collection of mini web apps that use public APIs with JavaScript. Each project
 ## Projects Included
 
 - **Cat Image Generator**  
-  Fetches and displays random cat images.
+  Fetches and displays random cat images.  
   [View on CodePen](https://codepen.io/Work-Reinis/pen/empvNea)
 
 - **Digimon Search App**  
