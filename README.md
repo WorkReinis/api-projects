@@ -6,33 +6,27 @@ A collection of mini web apps that use public APIs with JavaScript. Each project
 
 - **Cat Image Generator**  
   Fetches and displays random cat images.  
-  [View Project](https://codepen.io/Work-Reinis/pen/empvNea)
+  <a href="https://codepen.io/Work-Reinis/pen/empvNea" target="_blank">View Project</a>
 
 - **Digimon Search App**  
   Allows users to search for Digimon characters and view their details.  
-  [View Project](https://codepen.io/Work-Reinis/pen/qEOrdKZ)
+  <a href="https://codepen.io/Work-Reinis/pen/qEOrdKZ" target="_blank">View Project</a>
 
 - **Dog Image Generator**  
   Fetches and shows random dog images.  
-  [View Project](https://codepen.io/Work-Reinis/pen/dPYvojO)
+  <a href="https://codepen.io/Work-Reinis/pen/dPYvojO" target="_blank">View Project</a>
 
 - **Random Dad Joke Generator**  
   Displays a random dad joke.  
-  [View Project](https://codepen.io/Work-Reinis/pen/WbQpvKg)
+  <a href="https://codepen.io/Work-Reinis/pen/WbQpvKg" target="_blank">View Project</a>
 
 - **Random Quote Generator**  
   Fetches and displays random quotes.  
-  [View Project](https://codepen.io/Work-Reinis/pen/azvJOav)
+  <a href="https://codepen.io/Work-Reinis/pen/azvJOav" target="_blank">View Project</a>
 
 - **Random Star Wars Character Generator**  
-  Looks up a random Star Wars character using.  
-  [View Project](https://codepen.io/Work-Reinis/pen/MYapwxN)
-
----
-
-## Getting Started
-
-Each project is self-contained. Open the HTML of any project in your browser.
+  Looks up a random Star Wars character.  
+  <a href="https://codepen.io/Work-Reinis/pen/MYapwxN" target="_blank">View Project</a>
 
 ---
 
