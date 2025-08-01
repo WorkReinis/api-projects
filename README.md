@@ -1,35 +1,45 @@
-# API Projects
+# 🌐 API Projects
 
-A collection of mini web apps that use public APIs with JavaScript. Each project is contained in its own folder and demonstrates how to fetch and display data from external sources.
+A collection of fun mini web apps powered by **public APIs**.  
+Each project demonstrates how to fetch and display external data using **JavaScript, HTML, and CSS**.  
+Great for learning async code, promises, and DOM manipulation 🚀.
 
-## Projects Included
+## 🛠️ Tech Stack
 
-- **Cat Image Generator**  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)
+![API](https://img.shields.io/badge/Data-Public_APIs-4DB33D?logo=internet-explorer&logoColor=white)
+
+## 🚀 Projects Included
+
+- 🐱 **Cat Image Generator**  
   Fetches and displays random cat images.  
-  [View Project](https://codepen.io/Work-Reinis/pen/empvNea)
+  [🔗 Live Demo](https://codepen.io/Work-Reinis/pen/empvNea)
 
-- **Digimon Search App**  
-  Allows users to search for Digimon characters and view their details.  
-  [View Project](https://codepen.io/Work-Reinis/pen/qEOrdKZ)
+- 👾 **Digimon Search App**  
+  Search for Digimon characters and view details.  
+  [🔗 Live Demo](https://codepen.io/Work-Reinis/pen/qEOrdKZ)
 
-- **Dog Image Generator**  
+- 🐶 **Dog Image Generator**  
   Fetches and shows random dog images.  
-  [View Project](https://codepen.io/Work-Reinis/pen/dPYvojO)
+  [🔗 Live Demo](https://codepen.io/Work-Reinis/pen/dPYvojO)
 
-- **Random Dad Joke Generator**  
+- 😂 **Random Dad Joke Generator**  
   Displays a random dad joke.  
-  [View Project](https://codepen.io/Work-Reinis/pen/WbQpvKg)
+  [🔗 Live Demo](https://codepen.io/Work-Reinis/pen/WbQpvKg)
 
-- **Random Quote Generator**  
+- ✍️ **Random Quote Generator**  
   Fetches and displays random quotes.  
-  [View Project](https://codepen.io/Work-Reinis/pen/azvJOav)
+  [🔗 Live Demo](https://codepen.io/Work-Reinis/pen/azvJOav)
 
-- **Random Star Wars Character Generator**  
-  Looks up a random Star Wars character using.  
-  [View Project](https://codepen.io/Work-Reinis/pen/MYapwxN)
+- 🌌 **Star Wars Character Generator**  
+  Looks up a random Star Wars character.  
+  [🔗 Live Demo](https://codepen.io/Work-Reinis/pen/MYapwxN)
+
 
 ---
 
-## License
+## 📜 License
 
 This collection is open for learning and experimentation. Use it freely!
