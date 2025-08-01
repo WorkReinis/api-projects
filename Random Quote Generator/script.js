@@ -1,23 +1,25 @@
-let fetchButton = document.getElementById('btn');
-let displayDiv = document.getElementById('display-info');
+let fetchButton = document.getElementById("btn");
+let displayDiv = document.getElementById("display-info");
 
 function fetchQuote() {
-    const url = 'https://api.api-ninjas.com/v1/quotes?category=fitness'; // Endpoint for a random quote
+    const url = "https://api.api-ninjas.com/v1/quotes"; // Endpoint for a random quote
 
     fetch(url, {
-            headers: { 'X-Api-Key': 'gGf1pn15nXIEEyxv1G1pbg==rnRJlrxgkC3AceeX'},
-            contentType: 'application/json',})
-        .then(response => {
+        headers: { "X-Api-Key": "gGf1pn15nXIEEyxv1G1pbg==rnRJlrxgkC3AceeX" },
+        contentType: "application/json",
+    })
+        .then((response) => {
             if (!response.ok) {
-                throw new Error('Network response was not ok');
+                throw new Error("Network response was not ok");
             }
             return response.json();
         })
-        .then(data => {
-            displayQuote(data)
+        .then((data) => {
+            displayQuote(data);
         })
-        .catch(error => {
-            console.error('Error:', error);
+        .catch((error) => {
+            console.error("Error:", error);
+            alert("Quote not found. Please try again."); // Alert the user if quote is not found
         });
 }
 
@@ -27,7 +29,7 @@ function fetchQuote() {
 //         const response = await fetch(url,  {
 //             headers: { 'X-Api-Key': 'gGf1pn15nXIEEyxv1G1pbg==rnRJlrxgkC3AceeX'},
 //             contentType: 'application/json',}
-//         ); 
+//         );
 //         // Wait for the fetch to complete
 //         if (!response.ok) {
 //             throw new Error('Network response was not ok'); // Handle bad responses
@@ -42,14 +44,14 @@ function fetchQuote() {
 // }
 
 // Attach the event listener and invoke the fetchData function
-fetchButton.addEventListener('click', () => {
-    fetchQuote();  // Call the fetchData function here
+fetchButton.addEventListener("click", () => {
+    fetchQuote(); // Call the fetchData function here
 });
 
-function displayQuote( data) {
+function displayQuote(data) {
     // Populate basic information and add image
     displayDiv.innerHTML = `
         <p>${data[0].quote}</p>
-        <p>- ${data[0].author}</p>
+        <p class="mb-0">- ${data[0].author}</p>
         `;
 }

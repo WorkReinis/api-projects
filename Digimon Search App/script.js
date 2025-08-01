@@ -19,6 +19,7 @@ function fetchData() {
         })
         .catch(error => {
             console.error('Error:', error);  // Logs any error
+            alert('Digimon not found. Please try again.');  // Alert the user if Digimon is not found
         });
 }
 
