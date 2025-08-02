@@ -16,7 +16,7 @@ Great learning experience with async code, promises, and DOM manipulation.
 ## 🚀 Projects Included
 
 - **Cat Image Generator**  
-  Fetches and displays random cat images.  
+  Fetches adorable random cat photos from [The Cat API](https://thecatapi.com), updating instantly without page reload.  
   [Live Demo](https://codepen.io/Work-Reinis/pen/empvNea)
 
 - **Digimon Search App**  
