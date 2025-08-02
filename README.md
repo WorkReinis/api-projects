@@ -16,27 +16,27 @@ Great learning experience with async code, promises, and DOM manipulation.
 ## 🚀 Projects Included
 
 - **Cat Image Generator**  
-  Fetches adorable random cat photos from [The Cat API](https://thecatapi.com), updating instantly without page reload.  
+  Fetches adorable random cat photos from [The Cat API](https://thecatapi.com).  
   [Live Demo](https://codepen.io/Work-Reinis/pen/empvNea)
 
 - **Digimon Search App**  
-  Search for Digimon characters and view details.  
+  Fetches Digimon character data by name from the [Digimon API](https://digimon-api.vercel.app).  
   [Live Demo](https://codepen.io/Work-Reinis/pen/qEOrdKZ)
 
 - **Dog Image Generator**  
-  Fetches and shows random dog images.  
+  Fetches cute random dog images from the [Dog CEO API](https://dog.ceo/dog-api/).  
   [Live Demo](https://codepen.io/Work-Reinis/pen/dPYvojO)
 
 - **Random Dad Joke Generator**  
-  Displays a random dad joke.  
+  Fetches delightful dad jokes from the [icanhazdadjoke API](https://icanhazdadjoke.com/).  
   [Live Demo](https://codepen.io/Work-Reinis/pen/WbQpvKg)
 
 - **Random Quote Generator**  
-  Fetches and displays random quotes.  
+  Fetches inspiring quotes from the [API Ninjas Quotes API](https://api.api-ninjas.com/v1/quotes).  
   [Live Demo](https://codepen.io/Work-Reinis/pen/azvJOav)
 
 - **Star Wars Character Generator**  
-  Looks up a random Star Wars character.  
+  Fetches details of a random Star Wars character from the [SWAPI Tech API](https://swapi.tech).  
   [Live Demo](https://codepen.io/Work-Reinis/pen/MYapwxN)
 
 
