@@ -2,9 +2,9 @@
 
 A collection of fun mini web apps powered by **public APIs**.  
 Each project demonstrates how to fetch and display external data using **JavaScript, HTML, and CSS**.  
-Great for learning async code, promises, and DOM manipulation.
+Great learning experience with async code, promises, and DOM manipulation.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=30)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=30)
@@ -13,7 +13,7 @@ Great for learning async code, promises, and DOM manipulation.
 ![APIs](https://img.shields.io/badge/-APIs-4DB33D?logo=cloud&logoColor=white&logoWidth=30)
 
 
-### 🚀 Projects Included
+## 🚀 Projects Included
 
 - **Cat Image Generator**  
   Fetches and displays random cat images.  
@@ -40,8 +40,6 @@ Great for learning async code, promises, and DOM manipulation.
   [Live Demo](https://codepen.io/Work-Reinis/pen/MYapwxN)
 
 
----
-
-### 📜 License
+## 📜 License
 
 This collection is open for learning and experimentation. Use it freely!
