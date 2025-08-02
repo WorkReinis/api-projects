@@ -32,7 +32,7 @@ Great learning experience with async code, promises, and DOM manipulation.
   [Live Demo](https://codepen.io/Work-Reinis/pen/WbQpvKg)
 
 - **Random Quote Generator**  
-  Fetches inspiring quotes from the [API Ninjas Quotes API](https://api.api-ninjas.com/v1/quotes).  
+  Fetches inspiring quotes from the [API Ninjas Quotes API](https://api-ninjas.com/api/quotes).  
   [Live Demo](https://codepen.io/Work-Reinis/pen/azvJOav)
 
 - **Star Wars Character Generator**  
