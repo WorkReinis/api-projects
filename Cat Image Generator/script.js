@@ -9,9 +9,9 @@ const API_KEY = 'live_3mVhueO2GyWsvdji7rLi66f3qlYU3sfQKBfP41F8k8rHWXF7FyXfnLpIYi
 function fetchData() {
     console.log('Starting Fetch');
     fetch('https://api.thecatapi.com/v1/images/search', {
-        method: 'GET', // or 'POST', depending on the API
+        method: 'GET', 
         headers: {
-            'x-api-key': API_KEY // Include the API key in the headers
+            'x-api-key': API_KEY // API key is in the headers
         }
     })
     .then(response => {
